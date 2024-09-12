@@ -13,4 +13,5 @@ def generate_password(length, count):
     return passwords
 
 passwords = generate_password(8, 5)
+
 print(passwords)
